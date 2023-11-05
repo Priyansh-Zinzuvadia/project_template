@@ -20,3 +20,7 @@
 # Run `pre-commit` locally.
 
 `pre-commit run --all-files`
+
+# Requirements
+Write down the required pacakages and modules in requirements.in file 
+(It contains all the libraries and module required for running the project)
